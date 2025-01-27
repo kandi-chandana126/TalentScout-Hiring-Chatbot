@@ -24,7 +24,7 @@ Clone the project repository from GitHub:
 git clone https://github.com/your-username/talentscout.git
 cd talentscout
 
-Usage Guide
+### Usage Guide
 Launch the Application: Run the Streamlit app as mentioned above.
 Input Candidate Information: Upon starting the conversation, the chatbot will ask for candidate details (e.g., name, contact info, years of experience).
 Declare Tech Stack: The candidate will specify their proficiency in programming languages, frameworks, and tools.
