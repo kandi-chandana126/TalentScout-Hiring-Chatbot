@@ -1,2 +1,10 @@
 # TalentScout-Hiring-Chatbot
-TalentScout is an innovative recruitment assistant developed to optimize the initial candidate screening process for a fictional recruitment agency specializing in technology placements. 
+TalentScout is an innovative recruitment assistant developed to optimize the initial candidate screening process for a fictional recruitment agency specializing in technology placements. This intelligent chatbot efficiently collects essential candidate details, evaluates technical expertise, and generates personalized questions based on the tech stack provided by the candidate. TalentScout leverages the power of Large Language Models (LLMs) to create a seamless and effective hiring experience, automating key steps that would typically require human involvement.
+
+Upon initiation, the chatbot greets candidates and asks for vital information such as their full name, contact details, years of experience, desired job position(s), and current location. The candidate is then prompted to declare their tech stack, listing the programming languages, frameworks, tools, and databases they are proficient in.
+
+Based on this information, TalentScout dynamically generates a set of 3-5 technical questions tailored to the candidate's declared skill set. These questions are designed to assess the candidate's proficiency in each specific technology, such as Python, JavaScript, React, or SQL. The generated questions are crafted to provide recruiters with an accurate understanding of the candidate’s technical capabilities.
+
+The app’s conversational flow is context-aware, ensuring smooth interactions with candidates. If a candidate’s input is unclear or unexpected, the chatbot responds with meaningful fallback messages to steer the conversation back on track. After completing the technical evaluation, TalentScout gracefully ends the session, providing the candidate with information about the next steps in the hiring process.
+
+TalentScout is built using Streamlit for the front-end interface and integrates Large Language Models (LLMs) for generating relevant technical questions. This project highlights the efficiency and convenience of using AI-powered chatbots in recruitment, helping hiring teams streamline candidate assessments while enhancing the candidate experience.
